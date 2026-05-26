@@ -1,23 +1,14 @@
 # 🍔 Food Ordering Web Application
 
-A full-stack **Food Ordering Web Application** developed using **PHP, MySQL, HTML, CSS, Bootstrap, and XAMPP**.
+A full-stack Food Ordering Web Application built using **PHP, MySQL, HTML, CSS, Bootstrap, and XAMPP**.
 
-This project allows users to register, login, browse food items, place orders, and enables admin to manage food items and customer orders.
+## 🚀 Project Links
 
----
+**GitHub Repository:**  
+https://github.com/SailakshmiMajeti07/task4-food-order
 
-## 🚀 Live Project Link
-
-**Localhost Demo:**  
+**Run Project (Localhost):**  
 http://localhost/task4-food-order/login.php
-
----
-
-## 📂 GitHub Repository
-
-🔗 https://github.com/SailakshmiMajeti07/task4-food-order
-
----
 
 ## ✨ Features
 
@@ -26,11 +17,9 @@ http://localhost/task4-food-order/login.php
 - User Login Authentication
 - Secure Password Hashing
 - Session Management
-- Food Dashboard
 - Browse Available Foods
-- View Food Images
 - Place Food Orders
-- Logout Functionality
+- Logout
 
 ### Admin Features
 - Admin Panel
@@ -38,158 +27,51 @@ http://localhost/task4-food-order/login.php
 - Edit Food Items
 - Delete Food Items
 - View Customer Orders
-- Food Image Upload
-
-### Database Features
-- MySQL Database Integration
-- Users Table
-- Foods Table
-- Orders Table
-
----
+- Image Upload
 
 ## 🛠 Technologies Used
 
 - PHP
 - MySQL
-- HTML5
-- CSS3
-- Bootstrap 5
+- HTML
+- CSS
+- Bootstrap
 - XAMPP
-- Git
 - GitHub
 
----
+## ⚙️ Database
 
-## 📁 Project Structure
-
-```bash
-task4-food-order/
-│
-├── admin.php
-├── add_food.php
-├── dashboard.php
-├── db.php
-├── delete_food.php
-├── edit_food.php
-├── index.php
-├── login.php
-├── logout.php
-├── place_order.php
-├── register.php
-├── style.css
-├── uploads/
-│   └── pizza.jpg
-└── README.md
-```
-
----
-
-## ⚙️ Database Setup
-
-### Database Name
-
+**Database Name:**  
 ```sql
 food_order_db
 ```
 
-### Tables Created
-
-#### Users Table
-```sql
-users
-```
-
-#### Foods Table
-```sql
-foods
-```
-
-#### Orders Table
-```sql
-orders
-```
-
----
-
-## ▶️ How to Run This Project
-
-### Step 1
-Start **Apache** and **MySQL** in XAMPP.
-
----
-
-### Step 2
-Open phpMyAdmin:
-
-http://localhost/phpmyadmin/
-
----
-
-### Step 3
-Create database:
-
-```sql
-food_order_db
-```
-
----
-
-### Step 4
-Create required tables:
+**Tables:**  
 - users
 - foods
 - orders
 
----
+## ▶️ How to Run
 
-### Step 5
-Move project folder into:
+1. Start Apache & MySQL in XAMPP
+2. Open phpMyAdmin
+3. Create database: `food_order_db`
+4. Place project in:
 
 ```bash
 C:\xampp\htdocs\task4-food-order
 ```
 
----
-
-### Step 6
-Run project:
+5. Run:
 
 http://localhost/task4-food-order/login.php
 
----
-
-## 📸 Functional Modules
-
-✅ User Registration  
-✅ User Login  
-✅ Authentication  
-✅ Session Handling  
-✅ Dashboard  
-✅ Food Listing  
-✅ Add Food  
-✅ Edit Food  
-✅ Delete Food  
-✅ Image Upload  
-✅ Place Orders  
-✅ View Customer Orders  
-✅ Admin Panel  
-
----
-
 ## 👩‍💻 Developed By
 
-**Monika Majeti**  
-AIML Student | Web Development Enthusiast
+**Monika Majeti**
 
-GitHub Profile:  
+GitHub:  
 https://github.com/SailakshmiMajeti07
 
 LinkedIn:  
 https://www.linkedin.com/in/majeti-m-v-durga-rukmini-sailakshmi-891a91327
-
----
-
-## 📌 Project Status
-
-✅ Completed Successfully
