@@ -68,7 +68,7 @@ http://localhost/task4-food-order/login.php
 
 ## 👩‍💻 Developed By
 
-**Monika Majeti**
+**Majeti Sailakshmi**
 
 GitHub:  
 https://github.com/SailakshmiMajeti07
